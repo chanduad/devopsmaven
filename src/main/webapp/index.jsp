@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2>Kubernetes is arctestration tool!</h2>
+<h2>creating the three new projects!</h2>
 </body>
 </html>
